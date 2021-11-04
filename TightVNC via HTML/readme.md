@@ -1,2 +1,2 @@
-1. Folder BMSvn należy skopiować do na dysk C:/
-2. Dodać do rejestru wpisy BMS.reg
+1. Copy folder BMSvnc to C:/
+
