@@ -1,12 +1,12 @@
 Windows Registry Editor Version 5.00
 
-[HKEY_CLASSES_ROOT\BMSvnc]
+[HKEY_CLASSES_ROOT\VNChtml]
 @="URL:VNC do Maszyn Adrian B."
 "URL Protocol"=""
 
-[HKEY_CLASSES_ROOT\BMSvnc\shell]
+[HKEY_CLASSES_ROOT\VNChtml\shell]
 
-[HKEY_CLASSES_ROOT\BMSvnc\shell\open]
+[HKEY_CLASSES_ROOT\VNChtml\shell\open]
 
-[HKEY_CLASSES_ROOT\BMSvnc\shell\open\command]
-@="wscript.exe C:\\BMSvnc\\RDP.js %1"
+[HKEY_CLASSES_ROOT\VNChtml\shell\open\command]
+@="wscript.exe C:\\VNChtml\\VNC.js %1"
