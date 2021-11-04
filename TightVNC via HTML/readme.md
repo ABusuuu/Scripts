@@ -1,4 +1,4 @@
-1. Copy folder VNCh to C:/
-2. Use BMS.reg file.
+1. Copy folder VNChtml to C:/
+2. Use VNChtml.reg file.
 
 Now you can enter bmsvnc://ipaddress and TightVNC open it automatically.
