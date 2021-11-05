@@ -1,5 +1,5 @@
 var destination=(WScript.Arguments(0))
-var search='vnch://'
+var search='hvnc://'
 var rdpexe="C:\\Program Files\\TightVNC\\tvnviewer.exe"
 //WScript.Echo(destination)
 destination=destination.replace(search, '')
