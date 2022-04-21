@@ -12,7 +12,7 @@ class EVIL:
      arp.hwsrc= src_mac
      arp.pdst = dst_ip 
      packet = ether/arp
-     sendp(packet) # sens packet on layer 2
+     sendp(packet) # sends packet on layer 2
 
 
 #MAC = input('Enter a source MAC address ex. 00:00:00:00:00:00 : ') <- Which MAC address do you want ?
